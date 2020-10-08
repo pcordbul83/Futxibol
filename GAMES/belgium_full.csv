@@ -1,0 +1,787 @@
+"Round","Date","Time","HomeTeam","HowegoalsFT","AwaygoalsFT","HomegoalsHT","AwaygoalsHT","AwayTeam","Month","Day","Year"
+"1",2018-07-27,NA,"KAA Gent","3","2",NA,NA,"Standard Liège","Jul","27",2018
+"1",2018-07-28,NA,"KV Kortrijk","1","4",NA,NA,"RSC Anderlecht","Jul","28",2018
+"1",2018-07-28,NA,"SV Zulte Waregem","2","2",NA,NA,"Waasland-Beveren","Jul","28",2018
+"1",2018-07-28,NA,"KV Oostende","2","1",NA,NA,"Royal Excel Mouscron","Jul","28",2018
+"1",2018-07-28,NA,"Sint-Truidense VV","0","0",NA,NA,"Cercle Brugge","Jul","28",2018
+"1",2018-07-29,NA,"Club Brugge","5","2",NA,NA,"KAS Eupen","Jul","29",2018
+"1",2018-07-29,NA,"KRC Genk","0","4",NA,NA,"KSC Lokeren OV","Jul","29",2018
+"1",2018-07-29,NA,"Sporting Charleroi","0","1",NA,NA,"Royal Antwerp FC","Jul","29",2018
+"2",2018-08-03,NA,"Standard Liège","0","0",NA,NA,"Waasland-Beveren","Aug","3",2018
+"2",2018-08-04,NA,"Cercle Brugge","3","2",NA,NA,"KSC Lokeren OV","Aug","4",2018
+"2",2018-08-04,NA,"KAS Eupen","1","4",NA,NA,"Sporting Charleroi","Aug","4",2018
+"2",2018-08-04,NA,"KAA Gent","1","1",NA,NA,"SV Zulte Waregem","Aug","4",2018
+"2",2018-08-04,NA,"Royal Antwerp FC","0","0",NA,NA,"KV Kortrijk","Aug","4",2018
+"2",2018-08-05,NA,"KV Oostende","5","2",NA,NA,"RSC Anderlecht","Aug","5",2018
+"2",2018-08-05,NA,"KRC Genk","1","1",NA,NA,"Sint-Truidense VV","Aug","5",2018
+"2",2018-08-05,NA,"Royal Excel Mouscron","0","1",NA,NA,"Club Brugge","Aug","5",2018
+"3",2018-08-10,NA,"Club Brugge","3","0",NA,NA,"KV Kortrijk","Aug","10",2018
+"3",2018-08-11,NA,"Cercle Brugge","0","0",NA,NA,"Standard Liège","Aug","11",2018
+"3",2018-08-11,NA,"Royal Excel Mouscron","0","1",NA,NA,"Royal Antwerp FC","Aug","11",2018
+"3",2018-08-11,NA,"Sint-Truidense VV","1","1",NA,NA,"KSC Lokeren OV","Aug","11",2018
+"3",2018-08-11,NA,"SV Zulte Waregem","4","0",NA,NA,"KAS Eupen","Aug","11",2018
+"3",2018-08-12,NA,"KV Oostende","0","2",NA,NA,"KRC Genk","Aug","12",2018
+"3",2018-08-12,NA,"KAA Gent","4","1",NA,NA,"Waasland-Beveren","Aug","12",2018
+"3",2018-08-12,NA,"Sporting Charleroi","1","2",NA,NA,"RSC Anderlecht","Aug","12",2018
+"4",2018-08-17,NA,"Royal Excel Mouscron","2","0",NA,NA,"RSC Anderlecht","Aug","17",2018
+"4",2018-08-18,NA,"Standard Liège","0","3",NA,NA,"KSC Lokeren OV","Aug","18",2018
+"4",2018-08-18,NA,"Cercle Brugge","3","1",NA,NA,"SV Zulte Waregem","Aug","18",2018
+"4",2018-08-18,NA,"KV Kortrijk","1","2",NA,NA,"KV Oostende","Aug","18",2018
+"4",2018-08-18,NA,"Sint-Truidense VV","2","2",NA,NA,"Waasland-Beveren","Aug","18",2018
+"4",2018-08-19,NA,"Royal Antwerp FC","1","1",NA,NA,"Club Brugge","Aug","19",2018
+"4",2018-08-19,NA,"KAS Eupen","2","3",NA,NA,"KAA Gent","Aug","19",2018
+"4",2018-08-19,NA,"KRC Genk","3","1",NA,NA,"Sporting Charleroi","Aug","19",2018
+"5",2018-08-24,NA,"KV Oostende","3","1",NA,NA,"SV Zulte Waregem","Aug","24",2018
+"5",2018-08-25,NA,"Sporting Charleroi","0","2",NA,NA,"KV Kortrijk","Aug","25",2018
+"5",2018-08-25,NA,"Sint-Truidense VV","3","2",NA,NA,"Standard Liège","Aug","25",2018
+"5",2018-08-25,NA,"Royal Antwerp FC","1","0",NA,NA,"Cercle Brugge","Aug","25",2018
+"5",2018-08-25,NA,"Royal Excel Mouscron","0","1",NA,NA,"KAS Eupen","Aug","25",2018
+"5",2018-08-26,NA,"Club Brugge","2","1",NA,NA,"RSC Anderlecht","Aug","26",2018
+"5",2018-08-26,NA,"KAA Gent","2","1",NA,NA,"KSC Lokeren OV","Aug","26",2018
+"5",2018-08-26,NA,"KRC Genk","3","2",NA,NA,"Waasland-Beveren","Aug","26",2018
+"6",2018-08-31,NA,"SV Zulte Waregem","2","5",NA,NA,"Club Brugge","Aug","31",2018
+"6",2018-09-01,NA,"KAS Eupen","2","1",NA,NA,"Standard Liège","Sep","1",2018
+"6",2018-09-01,NA,"Sporting Charleroi","3","1",NA,NA,"Royal Excel Mouscron","Sep","1",2018
+"6",2018-09-01,NA,"Sint-Truidense VV","1","0",NA,NA,"KV Oostende","Sep","1",2018
+"6",2018-09-01,NA,"KSC Lokeren OV","1","0",NA,NA,"Waasland-Beveren","Sep","1",2018
+"6",2018-09-02,NA,"Royal Antwerp FC","1","1",NA,NA,"RSC Anderlecht","Sep","2",2018
+"6",2018-09-02,NA,"Cercle Brugge","0","3",NA,NA,"KAA Gent","Sep","2",2018
+"6",2018-09-02,NA,"KV Kortrijk","3","3",NA,NA,"KRC Genk","Sep","2",2018
+"7",2018-09-14,NA,"Club Brugge","2","1",NA,NA,"KSC Lokeren OV","Sep","14",2018
+"7",2018-09-15,NA,"Sporting Charleroi","0","0",NA,NA,"Standard Liège","Sep","15",2018
+"7",2018-09-15,NA,"KRC Genk","1","0",NA,NA,"RSC Anderlecht","Sep","15",2018
+"7",2018-09-15,NA,"KAS Eupen","0","0",NA,NA,"Waasland-Beveren","Sep","15",2018
+"7",2018-09-15,NA,"KV Oostende","1","1",NA,NA,"Cercle Brugge","Sep","15",2018
+"7",2018-09-16,NA,"Royal Excel Mouscron","1","0",NA,NA,"KV Kortrijk","Sep","16",2018
+"7",2018-09-16,NA,"KAA Gent","1","2",NA,NA,"Sint-Truidense VV","Sep","16",2018
+"7",2018-09-16,NA,"Royal Antwerp FC","5","1",NA,NA,"SV Zulte Waregem","Sep","16",2018
+"8",2018-09-21,NA,"SV Zulte Waregem","0","2",NA,NA,"KV Kortrijk","Sep","21",2018
+"8",2018-09-22,NA,"Sporting Charleroi","1","1",NA,NA,"Waasland-Beveren","Sep","22",2018
+"8",2018-09-22,NA,"KAS Eupen","1","2",NA,NA,"KV Oostende","Sep","22",2018
+"8",2018-09-22,NA,"Royal Excel Mouscron","0","0",NA,NA,"KSC Lokeren OV","Sep","22",2018
+"8",2018-09-22,NA,"Sint-Truidense VV","2","0",NA,NA,"Royal Antwerp FC","Sep","22",2018
+"8",2018-09-23,NA,"KAA Gent","0","4",NA,NA,"Club Brugge","Sep","23",2018
+"8",2018-09-23,NA,"Standard Liège","2","1",NA,NA,"RSC Anderlecht","Sep","23",2018
+"8",2018-09-23,NA,"Cercle Brugge","2","5",NA,NA,"KRC Genk","Sep","23",2018
+"9",2018-09-28,NA,"KV Kortrijk","1","3",NA,NA,"KAS Eupen","Sep","28",2018
+"9",2018-09-29,NA,"KRC Genk","4","0",NA,NA,"SV Zulte Waregem","Sep","29",2018
+"9",2018-09-29,NA,"Royal Excel Mouscron","0","3",NA,NA,"Waasland-Beveren","Sep","29",2018
+"9",2018-09-29,NA,"Sporting Charleroi","2","1",NA,NA,"KSC Lokeren OV","Sep","29",2018
+"9",2018-09-29,NA,"Club Brugge","4","0",NA,NA,"Cercle Brugge","Sep","29",2018
+"9",2018-09-30,NA,"Sint-Truidense VV","0","0",NA,NA,"RSC Anderlecht","Sep","30",2018
+"9",2018-09-30,NA,"Royal Antwerp FC","2","2",NA,NA,"KAA Gent","Sep","30",2018
+"9",2018-09-30,NA,"KV Oostende","1","3",NA,NA,"Standard Liège","Sep","30",2018
+"10",2018-10-05,NA,"Cercle Brugge","2","1",NA,NA,"Sporting Charleroi","Oct","5",2018
+"10",2018-10-06,NA,"KV Oostende","1","1",NA,NA,"Waasland-Beveren","Oct","6",2018
+"10",2018-10-06,NA,"KAS Eupen","1","2",NA,NA,"Royal Antwerp FC","Oct","6",2018
+"10",2018-10-06,NA,"Sint-Truidense VV","3","1",NA,NA,"Royal Excel Mouscron","Oct","6",2018
+"10",2018-10-06,NA,"KV Kortrijk","1","3",NA,NA,"KSC Lokeren OV","Oct","6",2018
+"10",2018-10-07,NA,"SV Zulte Waregem","1","2",NA,NA,"RSC Anderlecht","Oct","7",2018
+"10",2018-10-07,NA,"Club Brugge","3","1",NA,NA,"Standard Liège","Oct","7",2018
+"10",2018-10-07,NA,"KAA Gent","1","5",NA,NA,"KRC Genk","Oct","7",2018
+"11",2018-10-19,NA,"Club Brugge","1","1",NA,NA,"Waasland-Beveren","Oct","19",2018
+"11",2018-10-20,NA,"Royal Excel Mouscron","0","0",NA,NA,"Standard Liège","Oct","20",2018
+"11",2018-10-20,NA,"KV Kortrijk","3","1",NA,NA,"Sint-Truidense VV","Oct","20",2018
+"11",2018-10-20,NA,"KRC Genk","2","1",NA,NA,"KAS Eupen","Oct","20",2018
+"11",2018-10-20,NA,"Royal Antwerp FC","2","1",NA,NA,"KSC Lokeren OV","Oct","20",2018
+"11",2018-10-21,NA,"Cercle Brugge","4","2",NA,NA,"RSC Anderlecht","Oct","21",2018
+"11",2018-10-21,NA,"KV Oostende","0","4",NA,NA,"KAA Gent","Oct","21",2018
+"11",2018-10-21,NA,"Sporting Charleroi","3","2",NA,NA,"SV Zulte Waregem","Oct","21",2018
+"12",2018-10-26,NA,"KAA Gent","2","1",NA,NA,"Sporting Charleroi","Oct","26",2018
+"12",2018-10-27,NA,"SV Zulte Waregem","2","2",NA,NA,"Royal Excel Mouscron","Oct","27",2018
+"12",2018-10-27,NA,"Cercle Brugge","1","1",NA,NA,"KV Kortrijk","Oct","27",2018
+"12",2018-10-27,NA,"Sint-Truidense VV","2","2",NA,NA,"Club Brugge","Oct","27",2018
+"12",2018-10-27,NA,"KV Oostende","0","0",NA,NA,"KSC Lokeren OV","Oct","27",2018
+"12",2018-10-28,NA,"KRC Genk","1","1",NA,NA,"Standard Liège","Oct","28",2018
+"12",2018-10-28,NA,"KAS Eupen","2","1",NA,NA,"RSC Anderlecht","Oct","28",2018
+"12",2018-10-28,NA,"Royal Antwerp FC","0","1",NA,NA,"Waasland-Beveren","Oct","28",2018
+"13",2018-10-30,NA,"Sporting Charleroi","1","0",NA,NA,"Sint-Truidense VV","Oct","30",2018
+"13",2018-10-30,NA,"Royal Excel Mouscron","3","1",NA,NA,"KAA Gent","Oct","30",2018
+"13",2018-10-30,NA,"Club Brugge","4","0",NA,NA,"KV Oostende","Oct","30",2018
+"13",2018-10-31,NA,"KV Kortrijk","2","2",NA,NA,"Waasland-Beveren","Oct","31",2018
+"13",2018-10-31,NA,"KAS Eupen","2","0",NA,NA,"Cercle Brugge","Oct","31",2018
+"13",2018-10-31,NA,"Royal Antwerp FC","2","4",NA,NA,"KRC Genk","Oct","31",2018
+"13",2018-11-01,NA,"KSC Lokeren OV","1","1",NA,NA,"RSC Anderlecht","Nov","1",2018
+"13",2018-11-01,NA,"SV Zulte Waregem","3","1",NA,NA,"Standard Liège","Nov","1",2018
+"14",2018-11-02,NA,"KV Oostende","2","1",NA,NA,"Sporting Charleroi","Nov","2",2018
+"14",2018-11-03,NA,"KRC Genk","1","1",NA,NA,"Club Brugge","Nov","3",2018
+"14",2018-11-03,NA,"KAA Gent","3","1",NA,NA,"KV Kortrijk","Nov","3",2018
+"14",2018-11-03,NA,"Cercle Brugge","2","1",NA,NA,"Royal Excel Mouscron","Nov","3",2018
+"14",2018-11-04,NA,"Royal Antwerp FC","0","2",NA,NA,"Standard Liège","Nov","4",2018
+"14",2018-11-04,NA,"RSC Anderlecht","1","2",NA,NA,"Waasland-Beveren","Nov","4",2018
+"14",2018-11-04,NA,"KAS Eupen","2","0",NA,NA,"KSC Lokeren OV","Nov","4",2018
+"14",2018-11-04,NA,"Sint-Truidense VV","2","1",NA,NA,"SV Zulte Waregem","Nov","4",2018
+"15",2018-11-09,NA,"Royal Antwerp FC","2","0",NA,NA,"KV Oostende","Nov","9",2018
+"15",2018-11-10,NA,"Cercle Brugge","2","0",NA,NA,"Waasland-Beveren","Nov","10",2018
+"15",2018-11-10,NA,"KAS Eupen","1","4",NA,NA,"Sint-Truidense VV","Nov","10",2018
+"15",2018-11-10,NA,"SV Zulte Waregem","2","0",NA,NA,"KSC Lokeren OV","Nov","10",2018
+"15",2018-11-10,NA,"Sporting Charleroi","2","1",NA,NA,"Club Brugge","Nov","10",2018
+"15",2018-11-11,NA,"Royal Excel Mouscron","0","0",NA,NA,"KRC Genk","Nov","11",2018
+"15",2018-11-11,NA,"KV Kortrijk","0","2",NA,NA,"Standard Liège","Nov","11",2018
+"15",2018-11-11,NA,"KAA Gent","2","0",NA,NA,"RSC Anderlecht","Nov","11",2018
+"16",2018-11-23,NA,"Club Brugge","1","3",NA,NA,"SV Zulte Waregem","Nov","23",2018
+"16",2018-11-24,NA,"KAS Eupen","3","0",NA,NA,"Standard Liège","Nov","24",2018
+"16",2018-11-24,NA,"KV Oostende","1","2",NA,NA,"KV Kortrijk","Nov","24",2018
+"16",2018-11-24,NA,"KRC Genk","1","2",NA,NA,"Cercle Brugge","Nov","24",2018
+"16",2018-11-24,NA,"Royal Excel Mouscron","1","2",NA,NA,"Waasland-Beveren","Nov","24",2018
+"16",2018-11-25,NA,"KAA Gent","0","0",NA,NA,"Royal Antwerp FC","Nov","25",2018
+"16",2018-11-25,NA,"Sporting Charleroi","2","4",NA,NA,"KSC Lokeren OV","Nov","25",2018
+"16",2018-11-25,NA,"Sint-Truidense VV","4","2",NA,NA,"RSC Anderlecht","Nov","25",2018
+"17",2018-11-30,NA,"KAA Gent","2","2",NA,NA,"KSC Lokeren OV","Nov","30",2018
+"17",2018-12-01,NA,"Sporting Charleroi","3","1",NA,NA,"Cercle Brugge","Dec","1",2018
+"17",2018-12-01,NA,"KV Kortrijk","1","0",NA,NA,"Royal Excel Mouscron","Dec","1",2018
+"17",2018-12-01,NA,"Royal Antwerp FC","1","3",NA,NA,"Sint-Truidense VV","Dec","1",2018
+"17",2018-12-01,NA,"SV Zulte Waregem","1","1",NA,NA,"KV Oostende","Dec","1",2018
+"17",2018-12-02,NA,"Club Brugge","3","0",NA,NA,"Standard Liège","Dec","2",2018
+"17",2018-12-02,NA,"KAS Eupen","1","0",NA,NA,"Waasland-Beveren","Dec","2",2018
+"17",2018-12-02,NA,"KRC Genk","0","1",NA,NA,"RSC Anderlecht","Dec","2",2018
+"18",2018-12-07,NA,"Club Brugge","2","1",NA,NA,"Waasland-Beveren","Dec","7",2018
+"18",2018-12-08,NA,"Sint-Truidense VV","1","1",NA,NA,"Standard Liège","Dec","8",2018
+"18",2018-12-08,NA,"KRC Genk","1","1",NA,NA,"KV Kortrijk","Dec","8",2018
+"18",2018-12-08,NA,"KV Oostende","1","0",NA,NA,"KSC Lokeren OV","Dec","8",2018
+"18",2018-12-08,NA,"Royal Excel Mouscron","0","0",NA,NA,"SV Zulte Waregem","Dec","8",2018
+"18",2018-12-09,NA,"Cercle Brugge","0","3",NA,NA,"Royal Antwerp FC","Dec","9",2018
+"18",2018-12-09,NA,"Sporting Charleroi","1","1",NA,NA,"RSC Anderlecht","Dec","9",2018
+"18",2018-12-09,NA,"KAA Gent","2","0",NA,NA,"KAS Eupen","Dec","9",2018
+"19",2018-12-14,NA,"Sporting Charleroi","2","0",NA,NA,"KAA Gent","Dec","14",2018
+"19",2018-12-15,NA,"KV Kortrijk","0","0",NA,NA,"Club Brugge","Dec","15",2018
+"19",2018-12-15,NA,"KAS Eupen","1","0",NA,NA,"Royal Excel Mouscron","Dec","15",2018
+"19",2018-12-15,NA,"Royal Antwerp FC","0","2",NA,NA,"Waasland-Beveren","Dec","15",2018
+"19",2018-12-15,NA,"Sint-Truidense VV","2","0",NA,NA,"KSC Lokeren OV","Dec","15",2018
+"19",2018-12-16,NA,"Cercle Brugge","2","1",NA,NA,"RSC Anderlecht","Dec","16",2018
+"19",2018-12-16,NA,"KRC Genk","2","0",NA,NA,"KV Oostende","Dec","16",2018
+"19",2018-12-16,NA,"SV Zulte Waregem","4","1",NA,NA,"Standard Liège","Dec","16",2018
+"20",2018-12-21,NA,"KAA Gent","4","1",NA,NA,"Cercle Brugge","Dec","21",2018
+"20",2018-12-22,NA,"Royal Excel Mouscron","3","1",NA,NA,"RSC Anderlecht","Dec","22",2018
+"20",2018-12-22,NA,"KV Oostende","3","1",NA,NA,"Standard Liège","Dec","22",2018
+"20",2018-12-22,NA,"Sint-Truidense VV","0","0",NA,NA,"KV Kortrijk","Dec","22",2018
+"20",2018-12-22,NA,"KSC Lokeren OV","2","1",NA,NA,"Waasland-Beveren","Dec","22",2018
+"20",2018-12-23,NA,"Club Brugge","5","1",NA,NA,"Royal Antwerp FC","Dec","23",2018
+"20",2018-12-23,NA,"SV Zulte Waregem","3","1",NA,NA,"Sporting Charleroi","Dec","23",2018
+"20",2018-12-23,NA,"KAS Eupen","0","2",NA,NA,"KRC Genk","Dec","23",2018
+"21",2018-12-26,NA,"KV Kortrijk","4","2",NA,NA,"SV Zulte Waregem","Dec","26",2018
+"21",2018-12-26,NA,"KV Oostende","1","1",NA,NA,"Sint-Truidense VV","Dec","26",2018
+"21",2018-12-26,NA,"Cercle Brugge","0","1",NA,NA,"KAS Eupen","Dec","26",2018
+"21",2018-12-26,NA,"KRC Genk","3","1",NA,NA,"KAA Gent","Dec","26",2018
+"21",2018-12-26,NA,"Sporting Charleroi","0","1",NA,NA,"Standard Liège","Dec","26",2018
+"21",2018-12-26,NA,"Royal Antwerp FC","2","1",NA,NA,"Royal Excel Mouscron","Dec","26",2018
+"21",2018-12-27,NA,"RSC Anderlecht","3","0",NA,NA,"Waasland-Beveren","Dec","27",2018
+"21",2018-12-27,NA,"Club Brugge","0","1",NA,NA,"KSC Lokeren OV","Dec","27",2018
+"22",2019-01-18,NA,"Sint-Truidense VV","2","3",NA,NA,"KRC Genk","Jan","18",2019
+"22",2019-01-19,NA,"KV Kortrijk","2","1",NA,NA,"Standard Liège","Jan","19",2019
+"22",2019-01-19,NA,"KAS Eupen","4","1",NA,NA,"KSC Lokeren OV","Jan","19",2019
+"22",2019-01-19,NA,"SV Zulte Waregem","1","2",NA,NA,"Royal Antwerp FC","Jan","19",2019
+"22",2019-01-19,NA,"Cercle Brugge","1","1",NA,NA,"Waasland-Beveren","Jan","19",2019
+"22",2019-01-20,NA,"Club Brugge","0","1",NA,NA,"Sporting Charleroi","Jan","20",2019
+"22",2019-01-20,NA,"KAA Gent","1","0",NA,NA,"RSC Anderlecht","Jan","20",2019
+"22",2019-01-20,NA,"Royal Excel Mouscron","2","1",NA,NA,"KV Oostende","Jan","20",2019
+"23",2019-01-25,NA,"Royal Antwerp FC","1","1",NA,NA,"Standard Liège","Jan","25",2019
+"23",2019-01-26,NA,"Sporting Charleroi","2","2",NA,NA,"Waasland-Beveren","Jan","26",2019
+"23",2019-01-26,NA,"Cercle Brugge","1","2",NA,NA,"Sint-Truidense VV","Jan","26",2019
+"23",2019-01-26,NA,"KRC Genk","1","2",NA,NA,"Royal Excel Mouscron","Jan","26",2019
+"23",2019-01-26,NA,"SV Zulte Waregem","0","3",NA,NA,"KSC Lokeren OV","Jan","26",2019
+"23",2019-01-27,NA,"KV Oostende","1","2",NA,NA,"Club Brugge","Jan","27",2019
+"23",2019-01-27,NA,"KV Kortrijk","1","2",NA,NA,"KAA Gent","Jan","27",2019
+"23",2019-01-27,NA,"KAS Eupen","2","1",NA,NA,"RSC Anderlecht","Jan","27",2019
+"24",2019-02-01,NA,"Royal Excel Mouscron","3","0",NA,NA,"Sporting Charleroi","Feb","1",2019
+"24",2019-02-02,NA,"KV Oostende","0","2",NA,NA,"Royal Antwerp FC","Feb","2",2019
+"24",2019-02-02,NA,"KV Kortrijk","2","1",NA,NA,"KSC Lokeren OV","Feb","2",2019
+"24",2019-02-02,NA,"KRC Genk","1","2",NA,NA,"Waasland-Beveren","Feb","2",2019
+"24",2019-02-02,NA,"SV Zulte Waregem","3","2",NA,NA,"Cercle Brugge","Feb","2",2019
+"24",2019-02-03,NA,"Club Brugge","1","1",NA,NA,"KAA Gent","Feb","3",2019
+"24",2019-02-03,NA,"Sint-Truidense VV","4","1",NA,NA,"KAS Eupen","Feb","3",2019
+"24",2019-02-03,NA,"RSC Anderlecht","2","1",NA,NA,"Standard Liège","Feb","3",2019
+"25",2019-02-08,NA,"KRC Genk","2","0",NA,NA,"Standard Liège","Feb","8",2019
+"25",2019-02-09,NA,"Royal Antwerp FC","2","1",NA,NA,"KSC Lokeren OV","Feb","9",2019
+"25",2019-02-09,NA,"Sporting Charleroi","1","1",NA,NA,"KV Oostende","Feb","9",2019
+"25",2019-02-09,NA,"Sint-Truidense VV","2","1",NA,NA,"Waasland-Beveren","Feb","9",2019
+"25",2019-02-09,NA,"KAS Eupen","0","1",NA,NA,"KV Kortrijk","Feb","9",2019
+"25",2019-02-10,NA,"Cercle Brugge","2","2",NA,NA,"Club Brugge","Feb","10",2019
+"25",2019-02-10,NA,"SV Zulte Waregem","0","0",NA,NA,"RSC Anderlecht","Feb","10",2019
+"25",2019-02-10,NA,"KAA Gent","1","2",NA,NA,"Royal Excel Mouscron","Feb","10",2019
+"26",2019-02-15,NA,"KSC Lokeren OV","3","1",NA,NA,"Standard Liège","Feb","15",2019
+"26",2019-02-16,NA,"KV Kortrijk","1","2",NA,NA,"Sporting Charleroi","Feb","16",2019
+"26",2019-02-16,NA,"KAA Gent","2","1",NA,NA,"Waasland-Beveren","Feb","16",2019
+"26",2019-02-16,NA,"SV Zulte Waregem","1","1",NA,NA,"Sint-Truidense VV","Feb","16",2019
+"26",2019-02-16,NA,"KV Oostende","1","1",NA,NA,"KAS Eupen","Feb","16",2019
+"26",2019-02-17,NA,"Club Brugge","3","1",NA,NA,"KRC Genk","Feb","17",2019
+"26",2019-02-17,NA,"Royal Antwerp FC","0","1",NA,NA,"RSC Anderlecht","Feb","17",2019
+"26",2019-02-17,NA,"Royal Excel Mouscron","3","0",NA,NA,"Cercle Brugge","Feb","17",2019
+"27",2019-02-22,NA,"KAA Gent","2","1",NA,NA,"Standard Liège","Feb","22",2019
+"27",2019-02-23,NA,"KAS Eupen","2","3",NA,NA,"SV Zulte Waregem","Feb","23",2019
+"27",2019-02-23,NA,"Cercle Brugge","2","2",NA,NA,"KV Oostende","Feb","23",2019
+"27",2019-02-23,NA,"KV Kortrijk","2","6",NA,NA,"Waasland-Beveren","Feb","23",2019
+"27",2019-02-23,NA,"Royal Excel Mouscron","1","0",NA,NA,"KSC Lokeren OV","Feb","23",2019
+"27",2019-02-24,NA,"Club Brugge","2","2",NA,NA,"RSC Anderlecht","Feb","24",2019
+"27",2019-02-24,NA,"Sint-Truidense VV","3","1",NA,NA,"Sporting Charleroi","Feb","24",2019
+"27",2019-02-24,NA,"KRC Genk","0","0",NA,NA,"Royal Antwerp FC","Feb","24",2019
+"28",2019-03-01,NA,"Royal Excel Mouscron","1","1",NA,NA,"Standard Liège","Mar","1",2019
+"28",2019-03-02,NA,"KV Kortrijk","2","1",NA,NA,"Cercle Brugge","Mar","2",2019
+"28",2019-03-02,NA,"Sporting Charleroi","1","1",NA,NA,"KRC Genk","Mar","2",2019
+"28",2019-03-02,NA,"KV Oostende","1","1",NA,NA,"Waasland-Beveren","Mar","2",2019
+"28",2019-03-02,NA,"Club Brugge","1","0",NA,NA,"Sint-Truidense VV","Mar","2",2019
+"28",2019-03-03,NA,"SV Zulte Waregem","1","3",NA,NA,"KAA Gent","Mar","3",2019
+"28",2019-03-03,NA,"RSC Anderlecht","1","2",NA,NA,"KSC Lokeren OV","Mar","3",2019
+"28",2019-03-03,NA,"Royal Antwerp FC","2","1",NA,NA,"KAS Eupen","Mar","3",2019
+"29",2019-03-10,NA,"KRC Genk","1","0",NA,NA,"KSC Lokeren OV","Mar","10",2019
+"29",2019-03-10,NA,"KAA Gent","2","1",NA,NA,"KV Oostende","Mar","10",2019
+"29",2019-03-10,NA,"KV Kortrijk","2","0",NA,NA,"RSC Anderlecht","Mar","10",2019
+"29",2019-03-10,NA,"Royal Excel Mouscron","1","1",NA,NA,"Sint-Truidense VV","Mar","10",2019
+"29",2019-03-10,NA,"KAS Eupen","0","4",NA,NA,"Club Brugge","Mar","10",2019
+"29",2019-03-10,NA,"Cercle Brugge","1","2",NA,NA,"Standard Liège","Mar","10",2019
+"29",2019-03-10,NA,"SV Zulte Waregem","1","1",NA,NA,"Waasland-Beveren","Mar","10",2019
+"29",2019-03-10,NA,"Royal Antwerp FC","1","2",NA,NA,"Sporting Charleroi","Mar","10",2019
+"30",2019-03-17,NA,"Club Brugge","1","2",NA,NA,"Royal Excel Mouscron","Mar","17",2019
+"30",2019-03-17,NA,"Sint-Truidense VV","0","2",NA,NA,"KAA Gent","Mar","17",2019
+"30",2019-03-17,NA,"KV Kortrijk","2","0",NA,NA,"Royal Antwerp FC","Mar","17",2019
+"30",2019-03-17,NA,"KV Oostende","0","2",NA,NA,"RSC Anderlecht","Mar","17",2019
+"30",2019-03-17,NA,"SV Zulte Waregem","3","3",NA,NA,"KRC Genk","Mar","17",2019
+"30",2019-03-17,NA,"Cercle Brugge","3","1",NA,NA,"KSC Lokeren OV","Mar","17",2019
+"30",2019-03-17,NA,"Sporting Charleroi","1","2",NA,NA,"KAS Eupen","Mar","17",2019
+"30",2019-03-17,NA,"Standard Liège","4","3",NA,NA,"Waasland-Beveren","Mar","17",2019
+"1",2019-07-26,NA,"KRC Genk","2","1",NA,NA,"KV Kortrijk","Jul","26",2019
+"1",2019-07-27,NA,"Cercle Brugge","0","2",NA,NA,"Standard Liège","Jul","27",2019
+"1",2019-07-27,NA,"Sint-Truidense VV","0","1",NA,NA,"Royal Excel Mouscron","Jul","27",2019
+"1",2019-07-27,NA,"Club Brugge","1","3",NA,NA,"Waasland-Beveren","Jul","27",2019
+"1",2019-07-27,NA,"SV Zulte Waregem","0","2",NA,NA,"KV Mechelen","Jul","27",2019
+"1",2019-07-28,NA,"RSC Anderlecht","1","2",NA,NA,"KV Oostende","Jul","28",2019
+"1",2019-07-28,NA,"Sporting Charleroi","1","1",NA,NA,"KAA Gent","Jul","28",2019
+"1",2019-07-28,NA,"KAS Eupen","1","4",NA,NA,"Royal Antwerp FC","Jul","28",2019
+"2",2019-08-02,NA,"Sint-Truidense VV","6","0",NA,NA,"Club Brugge","Aug","2",2019
+"2",2019-08-03,NA,"Standard Liège","4","0",NA,NA,"SV Zulte Waregem","Aug","3",2019
+"2",2019-08-03,NA,"Sporting Charleroi","1","1",NA,NA,"KV Kortrijk","Aug","3",2019
+"2",2019-08-03,NA,"KRC Genk","3","1",NA,NA,"KV Mechelen","Aug","3",2019
+"2",2019-08-03,NA,"Cercle Brugge","3","1",NA,NA,"KV Oostende","Aug","3",2019
+"2",2019-08-04,NA,"KAA Gent","6","1",NA,NA,"KAS Eupen","Aug","4",2019
+"2",2019-08-04,NA,"Royal Excel Mouscron","0","0",NA,NA,"RSC Anderlecht","Aug","4",2019
+"2",2019-08-04,NA,"Royal Antwerp FC","4","1",NA,NA,"Waasland-Beveren","Aug","4",2019
+"3",2019-08-09,NA,"RSC Anderlecht","0","0",NA,NA,"KV Mechelen","Aug","9",2019
+"3",2019-08-10,NA,"Club Brugge","0","2",NA,NA,"KV Oostende","Aug","10",2019
+"3",2019-08-10,NA,"KAS Eupen","1","1",NA,NA,"Waasland-Beveren","Aug","10",2019
+"3",2019-08-10,NA,"KRC Genk","0","2",NA,NA,"SV Zulte Waregem","Aug","10",2019
+"3",2019-08-10,NA,"Cercle Brugge","1","3",NA,NA,"KV Kortrijk","Aug","10",2019
+"3",2019-08-11,NA,"Sint-Truidense VV","2","1",NA,NA,"Standard Liège","Aug","11",2019
+"3",2019-08-11,NA,"Sporting Charleroi","2","1",NA,NA,"Royal Antwerp FC","Aug","11",2019
+"3",2019-08-11,NA,"Royal Excel Mouscron","2","1",NA,NA,"KAA Gent","Aug","11",2019
+"4",2019-08-16,NA,"KAS Eupen","0","0",NA,NA,"Club Brugge","Aug","16",2019
+"4",2019-08-17,NA,"RSC Anderlecht","4","2",NA,NA,"KV Kortrijk","Aug","17",2019
+"4",2019-08-17,NA,"Cercle Brugge","3","1",NA,NA,"KV Mechelen","Aug","17",2019
+"4",2019-08-17,NA,"KRC Genk","0","4",NA,NA,"Waasland-Beveren","Aug","17",2019
+"4",2019-08-18,NA,"Standard Liège","4","1",NA,NA,"Royal Excel Mouscron","Aug","18",2019
+"4",2019-08-18,NA,"KAA Gent","2","0",NA,NA,"KV Oostende","Aug","18",2019
+"4",2019-08-18,NA,"Royal Antwerp FC","2","0",NA,NA,"Sint-Truidense VV","Aug","18",2019
+"4",2019-08-19,NA,"SV Zulte Waregem","3","1",NA,NA,"Sporting Charleroi","Aug","19",2019
+"5",2019-08-23,NA,"KRC Genk","1","0",NA,NA,"RSC Anderlecht","Aug","23",2019
+"5",2019-08-24,NA,"Cercle Brugge","1","0",NA,NA,"Waasland-Beveren","Aug","24",2019
+"5",2019-08-24,NA,"KV Mechelen","2","1",NA,NA,"KV Oostende","Aug","24",2019
+"5",2019-08-24,NA,"Sint-Truidense VV","0","0",NA,NA,"SV Zulte Waregem","Aug","24",2019
+"5",2019-08-25,NA,"Royal Excel Mouscron","2","0",NA,NA,"KAS Eupen","Aug","25",2019
+"5",2019-08-25,NA,"Standard Liège","2","1",NA,NA,"KV Kortrijk","Aug","25",2019
+"6",2019-08-30,NA,"Royal Excel Mouscron","2","2",NA,NA,"KV Mechelen","Aug","30",2019
+"6",2019-08-31,NA,"Sporting Charleroi","0","4",NA,NA,"Waasland-Beveren","Aug","31",2019
+"6",2019-08-31,NA,"KV Oostende","2","2",NA,NA,"KV Kortrijk","Aug","31",2019
+"6",2019-08-31,NA,"KAS Eupen","0","2",NA,NA,"Sint-Truidense VV","Aug","31",2019
+"6",2019-09-01,NA,"SV Zulte Waregem","2","0",NA,NA,"Royal Antwerp FC","Sep","1",2019
+"6",2019-09-01,NA,"KAA Gent","3","2",NA,NA,"Cercle Brugge","Sep","1",2019
+"6",2019-09-01,NA,"RSC Anderlecht","1","0",NA,NA,"Standard Liège","Sep","1",2019
+"6",2019-09-01,NA,"KRC Genk","1","1",NA,NA,"Club Brugge","Sep","1",2019
+"7",2019-09-13,NA,"Sporting Charleroi","2","1",NA,NA,"KRC Genk","Sep","13",2019
+"7",2019-09-14,NA,"Cercle Brugge","0","2",NA,NA,"Club Brugge","Sep","14",2019
+"7",2019-09-14,NA,"Sint-Truidense VV","1","1",NA,NA,"Waasland-Beveren","Sep","14",2019
+"7",2019-09-14,NA,"Standard Liège","1","4",NA,NA,"KV Oostende","Sep","14",2019
+"7",2019-09-14,NA,"KAS Eupen","1","1",NA,NA,"SV Zulte Waregem","Sep","14",2019
+"7",2019-09-15,NA,"KAA Gent","3","0",NA,NA,"KV Mechelen","Sep","15",2019
+"7",2019-09-15,NA,"Royal Excel Mouscron","2","0",NA,NA,"KV Kortrijk","Sep","15",2019
+"7",2019-09-15,NA,"RSC Anderlecht","1","2",NA,NA,"Royal Antwerp FC","Sep","15",2019
+"8",2019-09-20,NA,"KV Mechelen","2","3",NA,NA,"KV Kortrijk","Sep","20",2019
+"8",2019-09-21,NA,"Royal Antwerp FC","3","1",NA,NA,"Cercle Brugge","Sep","21",2019
+"8",2019-09-21,NA,"KRC Genk","3","1",NA,NA,"KV Oostende","Sep","21",2019
+"8",2019-09-21,NA,"Sporting Charleroi","0","3",NA,NA,"Sint-Truidense VV","Sep","21",2019
+"8",2019-09-21,NA,"Royal Excel Mouscron","1","1",NA,NA,"Waasland-Beveren","Sep","21",2019
+"8",2019-09-22,NA,"SV Zulte Waregem","2","2",NA,NA,"KAA Gent","Sep","22",2019
+"8",2019-09-22,NA,"RSC Anderlecht","2","1",NA,NA,"Club Brugge","Sep","22",2019
+"8",2019-09-22,NA,"Standard Liège","3","0",NA,NA,"KAS Eupen","Sep","22",2019
+"9",2019-09-28,NA,"KAA Gent","2","0",NA,NA,"KV Kortrijk","Sep","28",2019
+"9",2019-09-28,NA,"Sint-Truidense VV","3","3",NA,NA,"KRC Genk","Sep","28",2019
+"9",2019-09-28,NA,"Club Brugge","0","5",NA,NA,"KV Mechelen","Sep","28",2019
+"9",2019-09-28,NA,"Cercle Brugge","1","2",NA,NA,"KAS Eupen","Sep","28",2019
+"9",2019-09-28,NA,"Royal Excel Mouscron","2","2",NA,NA,"SV Zulte Waregem","Sep","28",2019
+"9",2019-09-29,NA,"Royal Antwerp FC","1","1",NA,NA,"KV Oostende","Sep","29",2019
+"9",2019-09-29,NA,"Standard Liège","1","1",NA,NA,"Sporting Charleroi","Sep","29",2019
+"9",2019-09-29,NA,"RSC Anderlecht","0","0",NA,NA,"Waasland-Beveren","Sep","29",2019
+"10",2019-10-04,NA,"Sporting Charleroi","1","2",NA,NA,"RSC Anderlecht","Oct","4",2019
+"10",2019-10-05,NA,"KAS Eupen","0","2",NA,NA,"KV Mechelen","Oct","5",2019
+"10",2019-10-05,NA,"KV Oostende","3","1",NA,NA,"Waasland-Beveren","Oct","5",2019
+"10",2019-10-05,NA,"Sint-Truidense VV","4","0",NA,NA,"KV Kortrijk","Oct","5",2019
+"10",2019-10-05,NA,"SV Zulte Waregem","6","0",NA,NA,"Cercle Brugge","Oct","5",2019
+"10",2019-10-06,NA,"KAA Gent","4","0",NA,NA,"Club Brugge","Oct","6",2019
+"10",2019-10-06,NA,"Royal Antwerp FC","2","2",NA,NA,"Standard Liège","Oct","6",2019
+"10",2019-10-06,NA,"KRC Genk","2","1",NA,NA,"Royal Excel Mouscron","Oct","6",2019
+"11",2019-10-18,NA,"Royal Excel Mouscron","0","1",NA,NA,"Club Brugge","Oct","18",2019
+"11",2019-10-19,NA,"KAA Gent","2","0",NA,NA,"Waasland-Beveren","Oct","19",2019
+"11",2019-10-19,NA,"KAS Eupen","2","3",NA,NA,"KV Oostende","Oct","19",2019
+"11",2019-10-19,NA,"Standard Liège","1","0",NA,NA,"KRC Genk","Oct","19",2019
+"11",2019-10-19,NA,"SV Zulte Waregem","2","0",NA,NA,"KV Kortrijk","Oct","19",2019
+"11",2019-10-20,NA,"Cercle Brugge","0","3",NA,NA,"Sporting Charleroi","Oct","20",2019
+"11",2019-10-20,NA,"RSC Anderlecht","4","1",NA,NA,"Sint-Truidense VV","Oct","20",2019
+"11",2019-10-20,NA,"Royal Antwerp FC","3","1",NA,NA,"KV Mechelen","Oct","20",2019
+"12",2019-10-25,NA,"KAS Eupen","0","0",NA,NA,"RSC Anderlecht","Oct","25",2019
+"12",2019-10-26,NA,"Sporting Charleroi","1","0",NA,NA,"Royal Excel Mouscron","Oct","26",2019
+"12",2019-10-26,NA,"KRC Genk","1","0",NA,NA,"Cercle Brugge","Oct","26",2019
+"12",2019-10-26,NA,"Royal Antwerp FC","3","1",NA,NA,"KV Kortrijk","Oct","26",2019
+"12",2019-10-26,NA,"SV Zulte Waregem","2","0",NA,NA,"KV Oostende","Oct","26",2019
+"12",2019-10-27,NA,"Sint-Truidense VV","0","0",NA,NA,"KAA Gent","Oct","27",2019
+"12",2019-10-27,NA,"Standard Liège","1","1",NA,NA,"Club Brugge","Oct","27",2019
+"12",2019-10-27,NA,"KV Mechelen","1","3",NA,NA,"Waasland-Beveren","Oct","27",2019
+"13",2019-10-29,NA,"Sporting Charleroi","0","1",NA,NA,"KV Oostende","Oct","29",2019
+"13",2019-10-29,NA,"Cercle Brugge","2","2",NA,NA,"Royal Excel Mouscron","Oct","29",2019
+"13",2019-10-29,NA,"KAS Eupen","1","2",NA,NA,"KV Kortrijk","Oct","29",2019
+"13",2019-10-30,NA,"SV Zulte Waregem","0","2",NA,NA,"Club Brugge","Oct","30",2019
+"13",2019-10-30,NA,"Sint-Truidense VV","1","2",NA,NA,"KV Mechelen","Oct","30",2019
+"13",2019-10-30,NA,"KRC Genk","2","2",NA,NA,"Royal Antwerp FC","Oct","30",2019
+"13",2019-10-30,NA,"Standard Liège","2","0",NA,NA,"Waasland-Beveren","Oct","30",2019
+"13",2019-10-31,NA,"RSC Anderlecht","3","3",NA,NA,"KAA Gent","Oct","31",2019
+"14",2019-11-02,NA,"KAS Eupen","2","0",NA,NA,"KRC Genk","Nov","2",2019
+"14",2019-11-02,NA,"SV Zulte Waregem","1","2",NA,NA,"Waasland-Beveren","Nov","2",2019
+"14",2019-11-02,NA,"KV Kortrijk","3","0",NA,NA,"Club Brugge","Nov","2",2019
+"14",2019-11-02,NA,"Royal Excel Mouscron","3","1",NA,NA,"Royal Antwerp FC","Nov","2",2019
+"14",2019-11-02,NA,"Sint-Truidense VV","1","0",NA,NA,"KV Oostende","Nov","2",2019
+"14",2019-11-03,NA,"Sporting Charleroi","2","2",NA,NA,"KV Mechelen","Nov","3",2019
+"14",2019-11-03,NA,"KAA Gent","3","1",NA,NA,"Standard Liège","Nov","3",2019
+"14",2019-11-03,NA,"RSC Anderlecht","2","1",NA,NA,"Cercle Brugge","Nov","3",2019
+"15",2019-11-08,NA,"SV Zulte Waregem","1","2",NA,NA,"RSC Anderlecht","Nov","8",2019
+"15",2019-11-09,NA,"Royal Excel Mouscron","2","2",NA,NA,"KV Oostende","Nov","9",2019
+"15",2019-11-09,NA,"Cercle Brugge","2","1",NA,NA,"Sint-Truidense VV","Nov","9",2019
+"15",2019-11-09,NA,"Sporting Charleroi","1","0",NA,NA,"KAS Eupen","Nov","9",2019
+"15",2019-11-09,NA,"KV Kortrijk","1","3",NA,NA,"Waasland-Beveren","Nov","9",2019
+"15",2019-11-10,NA,"Standard Liège","1","2",NA,NA,"KV Mechelen","Nov","10",2019
+"15",2019-11-10,NA,"KRC Genk","0","2",NA,NA,"KAA Gent","Nov","10",2019
+"15",2019-11-10,NA,"Royal Antwerp FC","2","1",NA,NA,"Club Brugge","Nov","10",2019
+"5",2019-11-21,NA,"Royal Antwerp FC","3","2",NA,NA,"KAA Gent","Nov","21",2019
+"16",2019-11-22,NA,"KV Oostende","2","0",NA,NA,"Club Brugge","Nov","22",2019
+"16",2019-11-23,NA,"Cercle Brugge","1","1",NA,NA,"Waasland-Beveren","Nov","23",2019
+"16",2019-11-23,NA,"KAS Eupen","1","2",NA,NA,"Standard Liège","Nov","23",2019
+"16",2019-11-23,NA,"SV Zulte Waregem","0","2",NA,NA,"KV Mechelen","Nov","23",2019
+"16",2019-11-23,NA,"Royal Excel Mouscron","2","2",NA,NA,"KRC Genk","Nov","23",2019
+"16",2019-11-24,NA,"Sint-Truidense VV","1","3",NA,NA,"Sporting Charleroi","Nov","24",2019
+"16",2019-11-24,NA,"KAA Gent","1","1",NA,NA,"Royal Antwerp FC","Nov","24",2019
+"16",2019-11-24,NA,"RSC Anderlecht","0","0",NA,NA,"KV Kortrijk","Nov","24",2019
+"17",2019-11-29,NA,"Royal Antwerp FC","1","0",NA,NA,"KV Mechelen","Nov","29",2019
+"17",2019-11-30,NA,"Royal Excel Mouscron","1","0",NA,NA,"Club Brugge","Nov","30",2019
+"17",2019-11-30,NA,"KRC Genk","1","2",NA,NA,"Sint-Truidense VV","Nov","30",2019
+"17",2019-11-30,NA,"SV Zulte Waregem","1","0",NA,NA,"KAS Eupen","Nov","30",2019
+"17",2019-11-30,NA,"Sporting Charleroi","2","0",NA,NA,"Waasland-Beveren","Nov","30",2019
+"17",2019-12-01,NA,"KAA Gent","0","2",NA,NA,"KV Kortrijk","Dec","1",2019
+"17",2019-12-01,NA,"RSC Anderlecht","3","2",NA,NA,"KV Oostende","Dec","1",2019
+"17",2019-12-01,NA,"Standard Liège","2","1",NA,NA,"Cercle Brugge","Dec","1",2019
+"18",2019-12-06,NA,"Royal Antwerp FC","0","4",NA,NA,"Waasland-Beveren","Dec","6",2019
+"18",2019-12-07,NA,"KV Kortrijk","1","1",NA,NA,"KV Mechelen","Dec","7",2019
+"18",2019-12-07,NA,"Cercle Brugge","1","2",NA,NA,"KRC Genk","Dec","7",2019
+"18",2019-12-07,NA,"KAA Gent","2","0",NA,NA,"SV Zulte Waregem","Dec","7",2019
+"18",2019-12-07,NA,"Sint-Truidense VV","1","2",NA,NA,"Club Brugge","Dec","7",2019
+"18",2019-12-08,NA,"Royal Excel Mouscron","2","2",NA,NA,"Standard Liège","Dec","8",2019
+"18",2019-12-08,NA,"KAS Eupen","1","0",NA,NA,"KV Oostende","Dec","8",2019
+"18",2019-12-08,NA,"RSC Anderlecht","0","0",NA,NA,"Sporting Charleroi","Dec","8",2019
+"19",2019-12-13,NA,"Royal Excel Mouscron","1","2",NA,NA,"KV Kortrijk","Dec","13",2019
+"19",2019-12-14,NA,"KRC Genk","4","1",NA,NA,"Waasland-Beveren","Dec","14",2019
+"19",2019-12-14,NA,"Royal Antwerp FC","1","0",NA,NA,"KAS Eupen","Dec","14",2019
+"19",2019-12-14,NA,"SV Zulte Waregem","5","1",NA,NA,"Sint-Truidense VV","Dec","14",2019
+"19",2019-12-14,NA,"Sporting Charleroi","3","0",NA,NA,"Cercle Brugge","Dec","14",2019
+"19",2019-12-15,NA,"KAA Gent","2","1",NA,NA,"KV Oostende","Dec","15",2019
+"19",2019-12-15,NA,"KV Mechelen","3","0",NA,NA,"Club Brugge","Dec","15",2019
+"19",2019-12-15,NA,"Standard Liège","1","1",NA,NA,"RSC Anderlecht","Dec","15",2019
+"20",2019-12-20,NA,"KV Oostende","1","0",NA,NA,"KV Mechelen","Dec","20",2019
+"20",2019-12-21,NA,"Royal Excel Mouscron","1","1",NA,NA,"Sporting Charleroi","Dec","21",2019
+"20",2019-12-21,NA,"Cercle Brugge","2","0",NA,NA,"SV Zulte Waregem","Dec","21",2019
+"20",2019-12-21,NA,"KAS Eupen","1","2",NA,NA,"KV Kortrijk","Dec","21",2019
+"20",2019-12-21,NA,"Standard Liège","2","1",NA,NA,"Waasland-Beveren","Dec","21",2019
+"20",2019-12-22,NA,"KAA Gent","1","1",NA,NA,"Club Brugge","Dec","22",2019
+"20",2019-12-22,NA,"RSC Anderlecht","2","0",NA,NA,"KRC Genk","Dec","22",2019
+"20",2019-12-22,NA,"Sint-Truidense VV","1","1",NA,NA,"Royal Antwerp FC","Dec","22",2019
+"21",2019-12-26,NA,"Standard Liège","0","1",NA,NA,"KAA Gent","Dec","26",2019
+"21",2019-12-26,NA,"KRC Genk","2","1",NA,NA,"KAS Eupen","Dec","26",2019
+"21",2019-12-26,NA,"Cercle Brugge","1","0",NA,NA,"KV Kortrijk","Dec","26",2019
+"21",2019-12-26,NA,"Royal Excel Mouscron","1","2",NA,NA,"KV Mechelen","Dec","26",2019
+"21",2019-12-26,NA,"SV Zulte Waregem","4","0",NA,NA,"Club Brugge","Dec","26",2019
+"21",2019-12-26,NA,"Sint-Truidense VV","1","0",NA,NA,"Waasland-Beveren","Dec","26",2019
+"21",2019-12-27,NA,"Royal Antwerp FC","0","0",NA,NA,"RSC Anderlecht","Dec","27",2019
+"21",2019-12-27,NA,"Sporting Charleroi","5","0",NA,NA,"KV Oostende","Dec","27",2019
+"22",2020-01-17,NA,"Standard Liège","2","3",NA,NA,"KV Mechelen","Jan","17",2020
+"22",2020-01-18,NA,"KV Oostende","0","1",NA,NA,"Waasland-Beveren","Jan","18",2020
+"22",2020-01-18,NA,"Sint-Truidense VV","2","0",NA,NA,"KV Kortrijk","Jan","18",2020
+"22",2020-01-18,NA,"KAA Gent","3","1",NA,NA,"Royal Excel Mouscron","Jan","18",2020
+"22",2020-01-18,NA,"KAS Eupen","1","1",NA,NA,"Sporting Charleroi","Jan","18",2020
+"22",2020-01-19,NA,"RSC Anderlecht","1","2",NA,NA,"Club Brugge","Jan","19",2020
+"22",2020-01-19,NA,"Cercle Brugge","1","2",NA,NA,"Royal Antwerp FC","Jan","19",2020
+"22",2020-01-19,NA,"SV Zulte Waregem","0","3",NA,NA,"KRC Genk","Jan","19",2020
+"23",2020-01-24,NA,"Standard Liège","2","1",NA,NA,"KV Oostende","Jan","24",2020
+"23",2020-01-25,NA,"KAA Gent","4","1",NA,NA,"KRC Genk","Jan","25",2020
+"23",2020-01-25,NA,"Royal Excel Mouscron","1","3",NA,NA,"Sint-Truidense VV","Jan","25",2020
+"23",2020-01-25,NA,"KAS Eupen","0","1",NA,NA,"Waasland-Beveren","Jan","25",2020
+"23",2020-01-26,NA,"Cercle Brugge","1","2",NA,NA,"RSC Anderlecht","Jan","26",2020
+"23",2020-01-26,NA,"Royal Antwerp FC","2","1",NA,NA,"SV Zulte Waregem","Jan","26",2020
+"23",2020-01-26,NA,"Club Brugge","2","2",NA,NA,"KV Kortrijk","Jan","26",2020
+"5",2020-01-29,NA,"Sporting Charleroi","0","0",NA,NA,"Club Brugge","Jan","29",2020
+"24",2020-01-31,NA,"Standard Liège","3","1",NA,NA,"KV Kortrijk","Jan","31",2020
+"24",2020-02-01,NA,"KRC Genk","1","0",NA,NA,"Sporting Charleroi","Feb","1",2020
+"24",2020-02-01,NA,"KAS Eupen","1","0",NA,NA,"Cercle Brugge","Feb","1",2020
+"24",2020-02-01,NA,"KAA Gent","0","3",NA,NA,"KV Mechelen","Feb","1",2020
+"24",2020-02-01,NA,"Sint-Truidense VV","1","0",NA,NA,"KV Oostende","Feb","1",2020
+"24",2020-02-02,NA,"RSC Anderlecht","1","0",NA,NA,"Royal Excel Mouscron","Feb","2",2020
+"24",2020-02-02,NA,"SV Zulte Waregem","5","0",NA,NA,"Waasland-Beveren","Feb","2",2020
+"24",2020-02-02,NA,"Royal Antwerp FC","1","0",NA,NA,"Club Brugge","Feb","2",2020
+"25",2020-02-07,NA,"KAA Gent","1","1",NA,NA,"RSC Anderlecht","Feb","7",2020
+"25",2020-02-08,NA,"Sporting Charleroi","4","0",NA,NA,"SV Zulte Waregem","Feb","8",2020
+"25",2020-02-08,NA,"Royal Excel Mouscron","3","1",NA,NA,"KV Oostende","Feb","8",2020
+"25",2020-02-08,NA,"Cercle Brugge","3","2",NA,NA,"KV Mechelen","Feb","8",2020
+"25",2020-02-08,NA,"Sint-Truidense VV","5","2",NA,NA,"KAS Eupen","Feb","8",2020
+"23",2020-02-11,NA,"Sporting Charleroi","2","1",NA,NA,"KV Mechelen","Feb","11",2020
+"25",2020-02-12,NA,"KV Kortrijk","1","2",NA,NA,"Waasland-Beveren","Feb","12",2020
+"25",2020-02-12,NA,"Standard Liège","0","0",NA,NA,"Club Brugge","Feb","12",2020
+"25",2020-02-13,NA,"Royal Antwerp FC","1","1",NA,NA,"KRC Genk","Feb","13",2020
+"26",2020-02-14,NA,"KAS Eupen","2","3",NA,NA,"KAA Gent","Feb","14",2020
+"26",2020-02-15,NA,"Club Brugge","2","1",NA,NA,"Waasland-Beveren","Feb","15",2020
+"26",2020-02-15,NA,"KV Kortrijk","0","3",NA,NA,"KV Oostende","Feb","15",2020
+"26",2020-02-15,NA,"RSC Anderlecht","2","0",NA,NA,"KV Mechelen","Feb","15",2020
+"26",2020-02-15,NA,"Sint-Truidense VV","0","1",NA,NA,"Cercle Brugge","Feb","15",2020
+"26",2020-02-16,NA,"SV Zulte Waregem","1","2",NA,NA,"Royal Excel Mouscron","Feb","16",2020
+"26",2020-02-16,NA,"KRC Genk","1","3",NA,NA,"Standard Liège","Feb","16",2020
+"26",2020-02-16,NA,"Royal Antwerp FC","1","1",NA,NA,"Sporting Charleroi","Feb","16",2020
+"27",2020-02-21,NA,"KRC Genk","0","1",NA,NA,"KV Kortrijk","Feb","21",2020
+"27",2020-02-22,NA,"Royal Excel Mouscron","0","1",NA,NA,"Cercle Brugge","Feb","22",2020
+"27",2020-02-22,NA,"Standard Liège","1","0",NA,NA,"Royal Antwerp FC","Feb","22",2020
+"27",2020-02-22,NA,"KV Mechelen","4","0",NA,NA,"Waasland-Beveren","Feb","22",2020
+"27",2020-02-22,NA,"SV Zulte Waregem","1","1",NA,NA,"KV Oostende","Feb","22",2020
+"27",2020-02-23,NA,"Sporting Charleroi","1","0",NA,NA,"Club Brugge","Feb","23",2020
+"27",2020-02-23,NA,"RSC Anderlecht","6","1",NA,NA,"KAS Eupen","Feb","23",2020
+"27",2020-02-23,NA,"KAA Gent","4","1",NA,NA,"Sint-Truidense VV","Feb","23",2020
+"28",2020-02-28,NA,"Sint-Truidense VV","0","3",NA,NA,"KV Mechelen","Feb","28",2020
+"28",2020-02-29,NA,"RSC Anderlecht","0","3",NA,NA,"Waasland-Beveren","Feb","29",2020
+"28",2020-02-29,NA,"Royal Antwerp FC","3","1",NA,NA,"KV Oostende","Feb","29",2020
+"28",2020-02-29,NA,"SV Zulte Waregem","2","2",NA,NA,"KV Kortrijk","Feb","29",2020
+"28",2020-02-29,NA,"KAS Eupen","2","1",NA,NA,"Royal Excel Mouscron","Feb","29",2020
+"28",2020-03-01,NA,"KRC Genk","1","2",NA,NA,"Club Brugge","Mar","1",2020
+"28",2020-03-01,NA,"Cercle Brugge","1","0",NA,NA,"KAA Gent","Mar","1",2020
+"28",2020-03-01,NA,"Sporting Charleroi","2","0",NA,NA,"Standard Liège","Mar","1",2020
+"29",2020-03-07,NA,"Cercle Brugge","2","1",NA,NA,"Club Brugge","Mar","7",2020
+"29",2020-03-07,NA,"RSC Anderlecht","7","0",NA,NA,"SV Zulte Waregem","Mar","7",2020
+"29",2020-03-07,NA,"KAS Eupen","1","1",NA,NA,"KV Mechelen","Mar","7",2020
+"29",2020-03-07,NA,"KAA Gent","1","4",NA,NA,"Sporting Charleroi","Mar","7",2020
+"29",2020-03-07,NA,"Royal Antwerp FC","0","1",NA,NA,"KV Kortrijk","Mar","7",2020
+"29",2020-03-07,NA,"Royal Excel Mouscron","1","0",NA,NA,"Waasland-Beveren","Mar","7",2020
+"29",2020-03-07,NA,"KRC Genk","2","4",NA,NA,"KV Oostende","Mar","7",2020
+"29",2020-03-07,NA,"Standard Liège","0","0",NA,NA,"Sint-Truidense VV","Mar","7",2020
+"30",2020-03-15,NA,"KRC Genk",NA,NA,NA,NA,"KV Mechelen","Mar","15",2020
+"30",2020-03-15,NA,"KAS Eupen",NA,NA,NA,NA,"Club Brugge","Mar","15",2020
+"30",2020-03-15,NA,"SV Zulte Waregem",NA,NA,NA,NA,"Standard Liège","Mar","15",2020
+"30",2020-03-15,NA,"Cercle Brugge",NA,NA,NA,NA,"KV Oostende","Mar","15",2020
+"30",2020-03-15,NA,"Sporting Charleroi",NA,NA,NA,NA,"KV Kortrijk","Mar","15",2020
+"30",2020-03-15,NA,"Royal Antwerp FC",NA,NA,NA,NA,"Royal Excel Mouscron","Mar","15",2020
+"30",2020-03-15,NA,"KAA Gent",NA,NA,NA,NA,"Waasland-Beveren","Mar","15",2020
+"30",2020-03-15,NA,"Sint-Truidense VV",NA,NA,NA,NA,"RSC Anderlecht","Mar","15",2020
+"1",2020-08-08,"16.30","Club Brugge","0","1","0","0","Sporting Charleroi","Aug","8",2020
+"1",2020-08-08,"19.00","Royal Antwerp FC","1","1","0","0","Royal Excel Mouscron","Aug","8",2020
+"1",2020-08-08,"19.00","Standard Liège","1","0","0","0","Cercle Brugge","Aug","8",2020
+"1",2020-08-09,"13.30","Sint-Truidense VV","2","1","1","1","KAA Gent","Aug","9",2020
+"1",2020-08-09,"16.00","SV Zulte Waregem","1","2","1","0","KRC Genk","Aug","9",2020
+"1",2020-08-09,"18.15","KV Mechelen","2","2","0","0","RSC Anderlecht","Aug","9",2020
+"1",2020-08-09,"20.45","KV Kortrijk","1","3","0","1","Waasland-Beveren","Aug","9",2020
+"1",2020-08-10,"19.00","KV Oostende","1","2","0","1","Beerschot VA","Aug","10",2020
+"1",2020-08-10,"19.00","Oud-Heverlee Leuven","1","1","0","0","KAS Eupen","Aug","10",2020
+"2",2020-08-14,"19.00","Royal Excel Mouscron","0","1","0","1","KV Mechelen","Aug","14",2020
+"2",2020-08-15,"16.30","KRC Genk","1","1","0","0","Oud-Heverlee Leuven","Aug","15",2020
+"2",2020-08-15,"19.00","Sporting Charleroi","1","0","0","0","KV Oostende","Aug","15",2020
+"2",2020-08-15,"19.00","KAA Gent","1","2","0","1","KV Kortrijk","Aug","15",2020
+"2",2020-08-16,"13.30","Cercle Brugge","2","1","0","1","Royal Antwerp FC","Aug","16",2020
+"2",2020-08-16,"16.00","Beerschot VA","3","1","1","0","SV Zulte Waregem","Aug","16",2020
+"2",2020-08-16,"16.00","KAS Eupen","0","4","0","1","Club Brugge","Aug","16",2020
+"2",2020-08-16,"18.15","RSC Anderlecht","3","1","1","0","Sint-Truidense VV","Aug","16",2020
+"2",2020-08-17,"19.00","Waasland-Beveren","1","2","0","0","Standard Liège","Aug","17",2020
+"3",2020-08-21,"19.00","KV Kortrijk","0","0",NA,NA,"KAS Eupen","Aug","21",2020
+"3",2020-08-22,"18.30","KV Mechelen","2","3","1","0","Cercle Brugge","Aug","22",2020
+"3",2020-08-22,"16.15","SV Zulte Waregem","4","1","1","0","Waasland-Beveren","Aug","22",2020
+"3",2020-08-22,"20.45","Royal Antwerp FC","1","0","1","0","KAA Gent","Aug","22",2020
+"3",2020-08-22,"18.30","Oud-Heverlee Leuven","1","3","1","1","Sporting Charleroi","Aug","22",2020
+"3",2020-08-23,"13.30","Standard Liège","0","0",NA,NA,"KRC Genk","Aug","23",2020
+"3",2020-08-23,"16.00","Club Brugge","0","1","0","1","Beerschot VA","Aug","23",2020
+"3",2020-08-23,"18.15","RSC Anderlecht","1","1","0","0","Royal Excel Mouscron","Aug","23",2020
+"3",2020-08-24,"20.45","Sint-Truidense VV","0","0",NA,NA,"KV Oostende","Aug","24",2020
+"4",2020-08-28,"20.45","KV Oostende","2","2","2","1","RSC Anderlecht","Aug","28",2020
+"4",2020-08-29,"16.15","KAS Eupen","1","1","1","0","Sint-Truidense VV","Aug","29",2020
+"4",2020-08-29,"20.45","Royal Excel Mouscron","0","1","0","0","SV Zulte Waregem","Aug","29",2020
+"4",2020-08-29,"18.30","Waasland-Beveren","1","3","0","1","Oud-Heverlee Leuven","Aug","29",2020
+"4",2020-08-29,"18.30","Cercle Brugge","0","1","0","0","KV Kortrijk","Aug","29",2020
+"4",2020-08-30,"13.30","KRC Genk","1","2","0","1","Club Brugge","Aug","30",2020
+"4",2020-08-30,"20.45","KAA Gent","1","0","1","0","KV Mechelen","Aug","30",2020
+"4",2020-08-30,"18.15","Sporting Charleroi","2","0","1","0","Royal Antwerp FC","Aug","30",2020
+"4",2020-08-30,"16.00","Beerschot VA","0","3","0","1","Standard Liège","Aug","30",2020
+"5",2020-09-11,"20.45","KAS Eupen","2","1","1","0","KAA Gent","Sep","11",2020
+"5",2020-09-12,"16.15","KV Mechelen","0","1","0","0","KV Oostende","Sep","12",2020
+"5",2020-09-12,"18.30","Oud-Heverlee Leuven","1","0","0","0","Standard Liège","Sep","12",2020
+"5",2020-09-12,"20.45","Club Brugge","4","1","2","1","Waasland-Beveren","Sep","12",2020
+"5",2020-09-13,"20.45","KV Kortrijk","3","0","0","0","Royal Excel Mouscron","Sep","13",2020
+"5",2020-09-13,"16.00","Sint-Truidense VV","2","3","2","2","Royal Antwerp FC","Sep","13",2020
+"5",2020-09-13,"18.15","SV Zulte Waregem","0","2","0","0","Sporting Charleroi","Sep","13",2020
+"5",2020-09-13,"13.30","RSC Anderlecht","2","0","1","0","Cercle Brugge","Sep","13",2020
+"5",2020-09-14,"20.45","Beerschot VA","5","2","1","1","KRC Genk","Sep","14",2020
+"6",2020-09-18,"20.45","Sporting Charleroi","3","1","1","0","Beerschot VA","Sep","18",2020
+"6",2020-09-19,"16.15","KV Oostende","3","1","1","0","Oud-Heverlee Leuven","Sep","19",2020
+"6",2020-09-19,"18.30","Royal Excel Mouscron","0","1","0","1","KAA Gent","Sep","19",2020
+"6",2020-09-19,"20.45","Waasland-Beveren","2","4","0","2","RSC Anderlecht","Sep","19",2020
+"6",2020-09-20,"13.30","SV Zulte Waregem","0","6","0","4","Club Brugge","Sep","20",2020
+"6",2020-09-20,"16.00","Standard Liège","2","1","2","1","KV Kortrijk","Sep","20",2020
+"6",2020-09-20,"18.15","KRC Genk","3","1","1","1","KV Mechelen","Sep","20",2020
+"6",2020-09-20,"20.45","Royal Antwerp FC","2","2","0","1","KAS Eupen","Sep","20",2020
+"6",2020-09-21,"20.45","Cercle Brugge","3","0","2","0","Sint-Truidense VV","Sep","21",2020
+"7",2020-09-25,"20.45","KV Kortrijk","1","3","1","0","Royal Antwerp FC","Sep","25",2020
+"7",2020-09-26,"18.30","KV Mechelen","2","0","0","0","Sint-Truidense VV","Sep","26",2020
+"7",2020-09-26,"16.15","Beerschot VA","3","2","1","2","Waasland-Beveren","Sep","26",2020
+"7",2020-09-26,"20.45","KAA Gent","2","3","0","2","Oud-Heverlee Leuven","Sep","26",2020
+"7",2020-09-27,"13.30","Standard Liège","2","2","0","1","SV Zulte Waregem","Sep","27",2020
+"7",2020-09-27,"16.00","RSC Anderlecht","1","1","0","0","KAS Eupen","Sep","27",2020
+"7",2020-09-27,"18.15","Club Brugge","2","1","1","0","Cercle Brugge","Sep","27",2020
+"7",2020-09-27,"20.45","Royal Excel Mouscron","1","1","1","1","Sporting Charleroi","Sep","27",2020
+"7",2020-09-28,"20.45","KRC Genk","2","2","1","1","KV Oostende","Sep","28",2020
+"8",2020-10-02,"20.45","Royal Antwerp FC","4","1","3","0","KV Mechelen","Oct","2",2020
+"8",2020-10-03,"16.15","Waasland-Beveren","1","1","0","0","KRC Genk","Oct","3",2020
+"8",2020-10-03,"18.30","KAS Eupen","1","2","1","1","Cercle Brugge","Oct","3",2020
+"8",2020-10-03,"18.30","Oud-Heverlee Leuven","2","1","1","0","SV Zulte Waregem","Oct","3",2020
+"8",2020-10-03,"20.45","Sint-Truidense VV","0","0",NA,NA,"KV Kortrijk","Oct","3",2020
+"8",2020-10-04,"13.30","Club Brugge","3","0","1","0","RSC Anderlecht","Oct","4",2020
+"8",2020-10-04,"16.00","KAA Gent","5","1","3","0","Beerschot VA","Oct","4",2020
+"8",2020-10-04,"18.15","Sporting Charleroi","1","2","0","0","Standard Liège","Oct","4",2020
+"8",2020-10-04,"20.45","KV Oostende","3","0","0","0","Royal Excel Mouscron","Oct","4",2020
+"9",2020-10-17,"16.15","Cercle Brugge",NA,NA,NA,NA,"KAA Gent","Oct","17",2020
+"9",2020-10-17,"18.30","Beerschot VA",NA,NA,NA,NA,"Sint-Truidense VV","Oct","17",2020
+"9",2020-10-17,"18.30","KV Mechelen",NA,NA,NA,NA,"KV Kortrijk","Oct","17",2020
+"9",2020-10-17,"20.45","Standard Liège",NA,NA,NA,NA,"Club Brugge","Oct","17",2020
+"9",2020-10-18,"13.30","SV Zulte Waregem",NA,NA,NA,NA,"Royal Antwerp FC","Oct","18",2020
+"9",2020-10-18,"16.00","Royal Excel Mouscron",NA,NA,NA,NA,"KAS Eupen","Oct","18",2020
+"9",2020-10-18,"18.15","KRC Genk",NA,NA,NA,NA,"Sporting Charleroi","Oct","18",2020
+"9",2020-10-18,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Oud-Heverlee Leuven","Oct","18",2020
+"9",2020-10-19,"20.45","KV Oostende",NA,NA,NA,NA,"Waasland-Beveren","Oct","19",2020
+"10",2020-10-24,"20.45","Cercle Brugge",NA,NA,NA,NA,"Royal Excel Mouscron","Oct","24",2020
+"10",2020-10-24,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Beerschot VA","Oct","24",2020
+"10",2020-10-24,"20.45","KAA Gent",NA,NA,NA,NA,"KRC Genk","Oct","24",2020
+"10",2020-10-24,"20.45","KAS Eupen",NA,NA,NA,NA,"KV Mechelen","Oct","24",2020
+"10",2020-10-24,"20.45","KV Kortrijk",NA,NA,NA,NA,"RSC Anderlecht","Oct","24",2020
+"10",2020-10-24,"20.45","KV Oostende",NA,NA,NA,NA,"SV Zulte Waregem","Oct","24",2020
+"10",2020-10-24,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Club Brugge","Oct","24",2020
+"10",2020-10-24,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Waasland-Beveren","Oct","24",2020
+"10",2020-10-24,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Standard Liège","Oct","24",2020
+"11",2020-10-31,"20.45","Beerschot VA",NA,NA,NA,NA,"Oud-Heverlee Leuven","Oct","31",2020
+"11",2020-10-31,"20.45","Club Brugge",NA,NA,NA,NA,"KV Mechelen","Oct","31",2020
+"11",2020-10-31,"20.45","KRC Genk",NA,NA,NA,NA,"KAS Eupen","Oct","31",2020
+"11",2020-10-31,"20.45","KAA Gent",NA,NA,NA,NA,"Waasland-Beveren","Oct","31",2020
+"11",2020-10-31,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Royal Antwerp FC","Oct","31",2020
+"11",2020-10-31,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Cercle Brugge","Oct","31",2020
+"11",2020-10-31,"20.45","Standard Liège",NA,NA,NA,NA,"KV Oostende","Oct","31",2020
+"11",2020-10-31,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"KV Kortrijk","Oct","31",2020
+"11",2020-10-31,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Sint-Truidense VV","Oct","31",2020
+"12",2020-11-07,"20.45","Cercle Brugge",NA,NA,NA,NA,"SV Zulte Waregem","Nov","7",2020
+"12",2020-11-07,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Standard Liège","Nov","7",2020
+"12",2020-11-07,"20.45","KAS Eupen",NA,NA,NA,NA,"Waasland-Beveren","Nov","7",2020
+"12",2020-11-07,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"KRC Genk","Nov","7",2020
+"12",2020-11-07,"20.45","KV Mechelen",NA,NA,NA,NA,"Sporting Charleroi","Nov","7",2020
+"12",2020-11-07,"20.45","KV Oostende",NA,NA,NA,NA,"Club Brugge","Nov","7",2020
+"12",2020-11-07,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Royal Excel Mouscron","Nov","7",2020
+"12",2020-11-07,"20.45","KV Kortrijk",NA,NA,NA,NA,"Beerschot VA","Nov","7",2020
+"13",2020-11-21,"20.45","Sporting Charleroi",NA,NA,NA,NA,"KAA Gent","Nov","21",2020
+"13",2020-11-22,"20.45","KRC Genk",NA,NA,NA,NA,"Royal Excel Mouscron","Nov","22",2020
+"13",2020-11-22,"20.45","Beerschot VA",NA,NA,NA,NA,"RSC Anderlecht","Nov","22",2020
+"13",2020-11-22,"20.45","Club Brugge",NA,NA,NA,NA,"KV Kortrijk","Nov","22",2020
+"13",2020-11-22,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"KV Mechelen","Nov","22",2020
+"13",2020-11-22,"20.45","KV Oostende",NA,NA,NA,NA,"Royal Antwerp FC","Nov","22",2020
+"13",2020-11-22,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Sint-Truidense VV","Nov","22",2020
+"13",2020-11-22,"20.45","Standard Liège",NA,NA,NA,NA,"KAS Eupen","Nov","22",2020
+"13",2020-11-22,"20.45","Cercle Brugge",NA,NA,NA,NA,"Waasland-Beveren","Nov","22",2020
+"14",2020-11-28,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Waasland-Beveren","Nov","28",2020
+"14",2020-11-28,"20.45","Cercle Brugge",NA,NA,NA,NA,"KRC Genk","Nov","28",2020
+"14",2020-11-28,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Oud-Heverlee Leuven","Nov","28",2020
+"14",2020-11-28,"20.45","KAA Gent",NA,NA,NA,NA,"SV Zulte Waregem","Nov","28",2020
+"14",2020-11-28,"20.45","KAS Eupen",NA,NA,NA,NA,"Sporting Charleroi","Nov","28",2020
+"14",2020-11-28,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Standard Liège","Nov","28",2020
+"14",2020-11-28,"20.45","KV Mechelen",NA,NA,NA,NA,"Beerschot VA","Nov","28",2020
+"14",2020-11-28,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Club Brugge","Nov","28",2020
+"14",2020-11-28,"20.45","KV Kortrijk",NA,NA,NA,NA,"KV Oostende","Nov","28",2020
+"15",2020-12-05,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Waasland-Beveren","Dec","5",2020
+"15",2020-12-05,"20.45","Beerschot VA",NA,NA,NA,NA,"KAS Eupen","Dec","5",2020
+"15",2020-12-05,"20.45","Club Brugge",NA,NA,NA,NA,"Sint-Truidense VV","Dec","5",2020
+"15",2020-12-05,"20.45","KRC Genk",NA,NA,NA,NA,"Royal Antwerp FC","Dec","5",2020
+"15",2020-12-05,"20.45","KV Oostende",NA,NA,NA,NA,"KAA Gent","Dec","5",2020
+"15",2020-12-05,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Cercle Brugge","Dec","5",2020
+"15",2020-12-05,"20.45","Sporting Charleroi",NA,NA,NA,NA,"KV Kortrijk","Dec","5",2020
+"15",2020-12-05,"20.45","Standard Liège",NA,NA,NA,NA,"KV Mechelen","Dec","5",2020
+"15",2020-12-05,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"RSC Anderlecht","Dec","5",2020
+"12",2020-12-07,"20.45","KAA Gent",NA,NA,NA,NA,"RSC Anderlecht","Dec","7",2020
+"16",2020-12-12,"20.45","Cercle Brugge",NA,NA,NA,NA,"KV Oostende","Dec","12",2020
+"16",2020-12-12,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Club Brugge","Dec","12",2020
+"16",2020-12-12,"20.45","KAA Gent",NA,NA,NA,NA,"Standard Liège","Dec","12",2020
+"16",2020-12-12,"20.45","KAS Eupen",NA,NA,NA,NA,"SV Zulte Waregem","Dec","12",2020
+"16",2020-12-12,"20.45","KV Kortrijk",NA,NA,NA,NA,"Oud-Heverlee Leuven","Dec","12",2020
+"16",2020-12-12,"20.45","KV Mechelen",NA,NA,NA,NA,"Waasland-Beveren","Dec","12",2020
+"16",2020-12-12,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Beerschot VA","Dec","12",2020
+"16",2020-12-12,"20.45","RSC Anderlecht",NA,NA,NA,NA,"KRC Genk","Dec","12",2020
+"16",2020-12-12,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Sporting Charleroi","Dec","12",2020
+"17",2020-12-19,"20.45","Beerschot VA",NA,NA,NA,NA,"Cercle Brugge","Dec","19",2020
+"17",2020-12-19,"20.45","Club Brugge",NA,NA,NA,NA,"KAA Gent","Dec","19",2020
+"17",2020-12-19,"20.45","KRC Genk",NA,NA,NA,NA,"KV Kortrijk","Dec","19",2020
+"17",2020-12-19,"20.45","KV Oostende",NA,NA,NA,NA,"KAS Eupen","Dec","19",2020
+"17",2020-12-19,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"KV Mechelen","Dec","19",2020
+"17",2020-12-19,"20.45","Sporting Charleroi",NA,NA,NA,NA,"RSC Anderlecht","Dec","19",2020
+"17",2020-12-19,"20.45","Standard Liège",NA,NA,NA,NA,"Royal Excel Mouscron","Dec","19",2020
+"17",2020-12-19,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Sint-Truidense VV","Dec","19",2020
+"17",2020-12-19,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Waasland-Beveren","Dec","19",2020
+"18",2020-12-23,"20.45","KV Mechelen",NA,NA,NA,NA,"Club Brugge","Dec","23",2020
+"18",2020-12-23,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"SV Zulte Waregem","Dec","23",2020
+"18",2020-12-23,"20.45","KAA Gent",NA,NA,NA,NA,"Waasland-Beveren","Dec","23",2020
+"18",2020-12-23,"20.45","KAS Eupen",NA,NA,NA,NA,"KRC Genk","Dec","23",2020
+"18",2020-12-23,"20.45","KV Kortrijk",NA,NA,NA,NA,"Standard Liège","Dec","23",2020
+"18",2020-12-23,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Oud-Heverlee Leuven","Dec","23",2020
+"18",2020-12-23,"20.45","RSC Anderlecht",NA,NA,NA,NA,"KV Oostende","Dec","23",2020
+"18",2020-12-23,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Beerschot VA","Dec","23",2020
+"18",2020-12-23,"20.45","Cercle Brugge",NA,NA,NA,NA,"Sporting Charleroi","Dec","23",2020
+"19",2020-12-26,"20.45","KV Mechelen",NA,NA,NA,NA,"Royal Excel Mouscron","Dec","26",2020
+"19",2020-12-26,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Sporting Charleroi","Dec","26",2020
+"19",2020-12-26,"20.45","Club Brugge",NA,NA,NA,NA,"KAS Eupen","Dec","26",2020
+"19",2020-12-26,"20.45","KRC Genk",NA,NA,NA,NA,"Waasland-Beveren","Dec","26",2020
+"19",2020-12-26,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"KV Oostende","Dec","26",2020
+"19",2020-12-26,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Beerschot VA","Dec","26",2020
+"19",2020-12-26,"20.45","Standard Liège",NA,NA,NA,NA,"Sint-Truidense VV","Dec","26",2020
+"19",2020-12-26,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Cercle Brugge","Dec","26",2020
+"19",2020-12-26,"20.45","KV Kortrijk",NA,NA,NA,NA,"KAA Gent","Dec","26",2020
+"20",2021-01-16,"20.45","Beerschot VA",NA,NA,NA,NA,"Club Brugge","Jan","16",2021
+"20",2021-01-16,"20.45","Cercle Brugge",NA,NA,NA,NA,"Standard Liège","Jan","16",2021
+"20",2021-01-16,"20.45","KAA Gent",NA,NA,NA,NA,"Royal Antwerp FC","Jan","16",2021
+"20",2021-01-16,"20.45","KAS Eupen",NA,NA,NA,NA,"RSC Anderlecht","Jan","16",2021
+"20",2021-01-16,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Waasland-Beveren","Jan","16",2021
+"20",2021-01-16,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"KRC Genk","Jan","16",2021
+"20",2021-01-16,"20.45","Sporting Charleroi",NA,NA,NA,NA,"KV Mechelen","Jan","16",2021
+"20",2021-01-16,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Oud-Heverlee Leuven","Jan","16",2021
+"20",2021-01-16,"20.45","KV Oostende",NA,NA,NA,NA,"KV Kortrijk","Jan","16",2021
+"21",2021-01-23,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"KV Oostende","Jan","23",2021
+"21",2021-01-23,"20.45","Club Brugge",NA,NA,NA,NA,"KRC Genk","Jan","23",2021
+"21",2021-01-23,"20.45","KV Kortrijk",NA,NA,NA,NA,"Cercle Brugge","Jan","23",2021
+"21",2021-01-23,"20.45","KV Mechelen",NA,NA,NA,NA,"KAS Eupen","Jan","23",2021
+"21",2021-01-23,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Royal Excel Mouscron","Jan","23",2021
+"21",2021-01-23,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Waasland-Beveren","Jan","23",2021
+"21",2021-01-23,"20.45","Standard Liège",NA,NA,NA,NA,"Sporting Charleroi","Jan","23",2021
+"21",2021-01-23,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Beerschot VA","Jan","23",2021
+"21",2021-01-23,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"KAA Gent","Jan","23",2021
+"22",2021-01-27,"20.45","Beerschot VA",NA,NA,NA,NA,"KV Kortrijk","Jan","27",2021
+"22",2021-01-27,"20.45","Cercle Brugge",NA,NA,NA,NA,"Club Brugge","Jan","27",2021
+"22",2021-01-27,"20.45","KAA Gent",NA,NA,NA,NA,"Sint-Truidense VV","Jan","27",2021
+"22",2021-01-27,"20.45","KAS Eupen",NA,NA,NA,NA,"Royal Antwerp FC","Jan","27",2021
+"22",2021-01-27,"20.45","KRC Genk",NA,NA,NA,NA,"SV Zulte Waregem","Jan","27",2021
+"22",2021-01-27,"20.45","KV Oostende",NA,NA,NA,NA,"Standard Liège","Jan","27",2021
+"22",2021-01-27,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"RSC Anderlecht","Jan","27",2021
+"22",2021-01-27,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Oud-Heverlee Leuven","Jan","27",2021
+"22",2021-01-27,"20.45","KV Mechelen",NA,NA,NA,NA,"Waasland-Beveren","Jan","27",2021
+"23",2021-01-30,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Waasland-Beveren","Jan","30",2021
+"23",2021-01-30,"20.45","Club Brugge",NA,NA,NA,NA,"Standard Liège","Jan","30",2021
+"23",2021-01-30,"20.45","KAS Eupen",NA,NA,NA,NA,"Royal Excel Mouscron","Jan","30",2021
+"23",2021-01-30,"20.45","KV Kortrijk",NA,NA,NA,NA,"Sporting Charleroi","Jan","30",2021
+"23",2021-01-30,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Cercle Brugge","Jan","30",2021
+"23",2021-01-30,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Beerschot VA","Jan","30",2021
+"23",2021-01-30,"20.45","RSC Anderlecht",NA,NA,NA,NA,"KAA Gent","Jan","30",2021
+"23",2021-01-30,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"KV Oostende","Jan","30",2021
+"23",2021-01-30,"20.45","KV Mechelen",NA,NA,NA,NA,"KRC Genk","Jan","30",2021
+"24",2021-02-06,"20.45","KAA Gent",NA,NA,NA,NA,"KAS Eupen","Feb","6",2021
+"24",2021-02-06,"20.45","Beerschot VA",NA,NA,NA,NA,"Royal Antwerp FC","Feb","6",2021
+"24",2021-02-06,"20.45","Cercle Brugge",NA,NA,NA,NA,"KV Mechelen","Feb","6",2021
+"24",2021-02-06,"20.45","KRC Genk",NA,NA,NA,NA,"RSC Anderlecht","Feb","6",2021
+"24",2021-02-06,"20.45","KV Oostende",NA,NA,NA,NA,"Sint-Truidense VV","Feb","6",2021
+"24",2021-02-06,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"KV Kortrijk","Feb","6",2021
+"24",2021-02-06,"20.45","Sporting Charleroi",NA,NA,NA,NA,"SV Zulte Waregem","Feb","6",2021
+"24",2021-02-06,"20.45","Standard Liège",NA,NA,NA,NA,"Oud-Heverlee Leuven","Feb","6",2021
+"24",2021-02-06,"20.45","Club Brugge",NA,NA,NA,NA,"Waasland-Beveren","Feb","6",2021
+"25",2021-02-10,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Cercle Brugge","Feb","10",2021
+"25",2021-02-10,"20.45","Club Brugge",NA,NA,NA,NA,"KV Oostende","Feb","10",2021
+"25",2021-02-10,"20.45","KAS Eupen",NA,NA,NA,NA,"Beerschot VA","Feb","10",2021
+"25",2021-02-10,"20.45","KRC Genk",NA,NA,NA,NA,"KAA Gent","Feb","10",2021
+"25",2021-02-10,"20.45","KV Kortrijk",NA,NA,NA,NA,"Sint-Truidense VV","Feb","10",2021
+"25",2021-02-10,"20.45","KV Mechelen",NA,NA,NA,NA,"Standard Liège","Feb","10",2021
+"25",2021-02-10,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Waasland-Beveren","Feb","10",2021
+"25",2021-02-10,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Sporting Charleroi","Feb","10",2021
+"25",2021-02-10,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Oud-Heverlee Leuven","Feb","10",2021
+"26",2021-02-13,"20.45","KV Oostende",NA,NA,NA,NA,"KRC Genk","Feb","13",2021
+"26",2021-02-13,"20.45","Beerschot VA",NA,NA,NA,NA,"KV Mechelen","Feb","13",2021
+"26",2021-02-13,"20.45","Cercle Brugge",NA,NA,NA,NA,"RSC Anderlecht","Feb","13",2021
+"26",2021-02-13,"20.45","KAA Gent",NA,NA,NA,NA,"Royal Excel Mouscron","Feb","13",2021
+"26",2021-02-13,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"KV Kortrijk","Feb","13",2021
+"26",2021-02-13,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Club Brugge","Feb","13",2021
+"26",2021-02-13,"20.45","Standard Liège",NA,NA,NA,NA,"Royal Antwerp FC","Feb","13",2021
+"26",2021-02-13,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"SV Zulte Waregem","Feb","13",2021
+"26",2021-02-13,"20.45","KAS Eupen",NA,NA,NA,NA,"Waasland-Beveren","Feb","13",2021
+"27",2021-02-20,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Waasland-Beveren","Feb","20",2021
+"27",2021-02-20,"20.45","Club Brugge",NA,NA,NA,NA,"Oud-Heverlee Leuven","Feb","20",2021
+"27",2021-02-20,"20.45","KAS Eupen",NA,NA,NA,NA,"KV Oostende","Feb","20",2021
+"27",2021-02-20,"20.45","KRC Genk",NA,NA,NA,NA,"Beerschot VA","Feb","20",2021
+"27",2021-02-20,"20.45","KV Mechelen",NA,NA,NA,NA,"KAA Gent","Feb","20",2021
+"27",2021-02-20,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Cercle Brugge","Feb","20",2021
+"27",2021-02-20,"20.45","RSC Anderlecht",NA,NA,NA,NA,"KV Kortrijk","Feb","20",2021
+"27",2021-02-20,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Standard Liège","Feb","20",2021
+"27",2021-02-20,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"Sint-Truidense VV","Feb","20",2021
+"28",2021-02-27,"20.45","Beerschot VA",NA,NA,NA,NA,"Royal Excel Mouscron","Feb","27",2021
+"28",2021-02-27,"20.45","Cercle Brugge",NA,NA,NA,NA,"Waasland-Beveren","Feb","27",2021
+"28",2021-02-27,"20.45","KAA Gent",NA,NA,NA,NA,"Club Brugge","Feb","27",2021
+"28",2021-02-27,"20.45","KV Kortrijk",NA,NA,NA,NA,"SV Zulte Waregem","Feb","27",2021
+"28",2021-02-27,"20.45","KV Oostende",NA,NA,NA,NA,"KV Mechelen","Feb","27",2021
+"28",2021-02-27,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Royal Antwerp FC","Feb","27",2021
+"28",2021-02-27,"20.45","Sporting Charleroi",NA,NA,NA,NA,"KRC Genk","Feb","27",2021
+"28",2021-02-27,"20.45","Standard Liège",NA,NA,NA,NA,"RSC Anderlecht","Feb","27",2021
+"28",2021-02-27,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"KAS Eupen","Feb","27",2021
+"29",2021-03-06,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"KV Kortrijk","Mar","6",2021
+"29",2021-03-06,"20.45","Club Brugge",NA,NA,NA,NA,"SV Zulte Waregem","Mar","6",2021
+"29",2021-03-06,"20.45","KAA Gent",NA,NA,NA,NA,"KV Oostende","Mar","6",2021
+"29",2021-03-06,"20.45","KAS Eupen",NA,NA,NA,NA,"Oud-Heverlee Leuven","Mar","6",2021
+"29",2021-03-06,"20.45","KRC Genk",NA,NA,NA,NA,"Cercle Brugge","Mar","6",2021
+"29",2021-03-06,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Standard Liège","Mar","6",2021
+"29",2021-03-06,"20.45","RSC Anderlecht",NA,NA,NA,NA,"KV Mechelen","Mar","6",2021
+"29",2021-03-06,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Sint-Truidense VV","Mar","6",2021
+"29",2021-03-06,"20.45","Beerschot VA",NA,NA,NA,NA,"Waasland-Beveren","Mar","6",2021
+"30",2021-03-13,"20.45","Beerschot VA",NA,NA,NA,NA,"KAA Gent","Mar","13",2021
+"30",2021-03-13,"20.45","Cercle Brugge",NA,NA,NA,NA,"KAS Eupen","Mar","13",2021
+"30",2021-03-13,"20.45","KV Kortrijk",NA,NA,NA,NA,"KRC Genk","Mar","13",2021
+"30",2021-03-13,"20.45","KV Mechelen",NA,NA,NA,NA,"Royal Antwerp FC","Mar","13",2021
+"30",2021-03-13,"20.45","KV Oostende",NA,NA,NA,NA,"Sporting Charleroi","Mar","13",2021
+"30",2021-03-13,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"RSC Anderlecht","Mar","13",2021
+"30",2021-03-13,"20.45","Standard Liège",NA,NA,NA,NA,"Waasland-Beveren","Mar","13",2021
+"30",2021-03-13,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"Royal Excel Mouscron","Mar","13",2021
+"30",2021-03-13,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Club Brugge","Mar","13",2021
+"31",2021-03-20,"20.45","KRC Genk",NA,NA,NA,NA,"Standard Liège","Mar","20",2021
+"31",2021-03-20,"20.45","Beerschot VA",NA,NA,NA,NA,"Sporting Charleroi","Mar","20",2021
+"31",2021-03-20,"20.45","Club Brugge",NA,NA,NA,NA,"Royal Antwerp FC","Mar","20",2021
+"31",2021-03-20,"20.45","KAA Gent",NA,NA,NA,NA,"Cercle Brugge","Mar","20",2021
+"31",2021-03-20,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"Waasland-Beveren","Mar","20",2021
+"31",2021-03-20,"20.45","KV Mechelen",NA,NA,NA,NA,"Oud-Heverlee Leuven","Mar","20",2021
+"31",2021-03-20,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"KV Oostende","Mar","20",2021
+"31",2021-03-20,"20.45","RSC Anderlecht",NA,NA,NA,NA,"SV Zulte Waregem","Mar","20",2021
+"31",2021-03-20,"20.45","KAS Eupen",NA,NA,NA,NA,"KV Kortrijk","Mar","20",2021
+"32",2021-04-03,"20.45","Standard Liège",NA,NA,NA,NA,"KAA Gent","Apr","3",2021
+"32",2021-04-03,"20.45","Cercle Brugge",NA,NA,NA,NA,"Beerschot VA","Apr","3",2021
+"32",2021-04-03,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"RSC Anderlecht","Apr","3",2021
+"32",2021-04-03,"20.45","KV Kortrijk",NA,NA,NA,NA,"Club Brugge","Apr","3",2021
+"32",2021-04-03,"20.45","KV Oostende",NA,NA,NA,NA,"Waasland-Beveren","Apr","3",2021
+"32",2021-04-03,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"KRC Genk","Apr","3",2021
+"32",2021-04-03,"20.45","Sporting Charleroi",NA,NA,NA,NA,"Royal Excel Mouscron","Apr","3",2021
+"32",2021-04-03,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"KAS Eupen","Apr","3",2021
+"32",2021-04-03,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"KV Mechelen","Apr","3",2021
+"33",2021-04-10,"20.45","KV Mechelen",NA,NA,NA,NA,"SV Zulte Waregem","Apr","10",2021
+"33",2021-04-10,"20.45","Beerschot VA",NA,NA,NA,NA,"KV Oostende","Apr","10",2021
+"33",2021-04-10,"20.45","Cercle Brugge",NA,NA,NA,NA,"Oud-Heverlee Leuven","Apr","10",2021
+"33",2021-04-10,"20.45","KAA Gent",NA,NA,NA,NA,"Sporting Charleroi","Apr","10",2021
+"33",2021-04-10,"20.45","KV Kortrijk",NA,NA,NA,NA,"Waasland-Beveren","Apr","10",2021
+"33",2021-04-10,"20.45","KRC Genk",NA,NA,NA,NA,"Sint-Truidense VV","Apr","10",2021
+"33",2021-04-10,"20.45","Royal Excel Mouscron",NA,NA,NA,NA,"Royal Antwerp FC","Apr","10",2021
+"33",2021-04-10,"20.45","RSC Anderlecht",NA,NA,NA,NA,"Club Brugge","Apr","10",2021
+"33",2021-04-10,"20.45","KAS Eupen",NA,NA,NA,NA,"Standard Liège","Apr","10",2021
+"34",2021-04-17,"20.45","Royal Antwerp FC",NA,NA,NA,NA,"KRC Genk","Apr","17",2021
+"34",2021-04-17,"20.45","Club Brugge",NA,NA,NA,NA,"Royal Excel Mouscron","Apr","17",2021
+"34",2021-04-17,"20.45","KV Kortrijk",NA,NA,NA,NA,"KV Mechelen","Apr","17",2021
+"34",2021-04-17,"20.45","KV Oostende",NA,NA,NA,NA,"Cercle Brugge","Apr","17",2021
+"34",2021-04-17,"20.45","Oud-Heverlee Leuven",NA,NA,NA,NA,"Waasland-Beveren","Apr","17",2021
+"34",2021-04-17,"20.45","Sporting Charleroi",NA,NA,NA,NA,"KAS Eupen","Apr","17",2021
+"34",2021-04-17,"20.45","Standard Liège",NA,NA,NA,NA,"Beerschot VA","Apr","17",2021
+"34",2021-04-17,"20.45","SV Zulte Waregem",NA,NA,NA,NA,"KAA Gent","Apr","17",2021
+"34",2021-04-17,"20.45","Sint-Truidense VV",NA,NA,NA,NA,"RSC Anderlecht","Apr","17",2021
