@@ -55,3 +55,5 @@ bel_full$AwayRef[is.na(bel_full$AwayRef)] = "SANDARD"
 #merging all the files
 
 full_data<-left_join(bel_full,odds_full,by=c("Date","HomeRef","AwayRef"))
+today<-Sys.Date()
+write.csv(full_data,paste0(today,"full_data.csv"), row.names = FALSE)
